@@ -1,4 +1,4 @@
-package main
+package astar
 
 // 节点状态枚举
 type nodeEnum int
